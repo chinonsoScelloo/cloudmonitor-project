@@ -1,2 +1,2 @@
 # cloudmonitor-project
- A simple ui/ux to display cpu consumption
+ A simple ui/ux to display cpu consumption and usage
